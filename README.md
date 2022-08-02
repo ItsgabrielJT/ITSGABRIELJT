@@ -9,4 +9,4 @@
 
 ✨ Check out my portfolio: 
 
-<a href="https://github.com/bchiang7/v4"> Portfolio Link </a>
+## <a href="https://github.com/bchiang7/v4"> Portfolio Link </a>
