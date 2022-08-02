@@ -7,4 +7,6 @@
 
 <br>
 
-✨ Check out my portfolio: ##Link [Portfolio Link](https://github.com/pandao/editor.md "Heading link")
+✨ Check out my portfolio: 
+
+<a href="https://github.com/bchiang7/v4"> Portfolio Link </a>
