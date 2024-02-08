@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student from the EPN<br>I'm 20 years old 🙌<br>I want to be a data scientist 😎 or data analyst🧪
+I'm a full stack developer <br>I'm 21 years old 🙌<br>I want to be a full stack web in React and Angular
 
 
 ## 🌐 Socials:
