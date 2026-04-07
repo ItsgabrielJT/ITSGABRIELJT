@@ -1,23 +1,102 @@
-# 💫 About Me:
-I'm a full stack developer <br>I'm 21 years old 🙌<br>I want to be a full stack web in React and Angular
 
+# 💫 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabriel_jt30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-tates) 
+Full Stack Developer with strong expertise in **software quality engineering, automated testing, and scalable system design**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ItsgabrielJT&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ItsgabrielJT&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsgabrielJT&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I build **modern web applications using React, Angular, and backend services**, while integrating **testing strategies, automation frameworks, and quality practices directly into the development lifecycle**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ItsgabrielJT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+My experience combines **software development, QA engineering, and system architecture**, allowing me to design systems that are **maintainable, scalable, and reliable by design**.
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I have experience working with different architectures including **monolithic systems, microservices, and event-driven architectures**, applying the most appropriate approach depending on system complexity and scalability requirements.
+
+I also work with **AI-assisted development workflows** using tools like **GitHub Copilot and Claude**, applying practices such as **ASDD (Agent-Supported Development)** and **SDD (Spec-Driven Development)**, as well as **AI agent orchestration for development and testing workflows**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ItsgabrielJT&icon=6&color=8)](https://visitcount.itsvg.in)
 
+# 🧠 Software Engineering & Architecture
+
+Experience designing and working with modern architectures:
+
+• **Monolithic architectures** for rapid and maintainable systems
+• **Microservices architectures** for scalable distributed platforms
+• **Event-Driven Architecture (EDA)** for decoupled and asynchronous systems
+• **API-first architectures** for modular integrations
+
+Engineering practices:
+
+✔ Clean Architecture principles
+✔ Design Patterns implementation
+✔ Risk analysis and mitigation in software delivery
+✔ Test strategy and quality planning
+✔ CI/CD quality gates
+✔ Observability and maintainability practices
+
+---
+
+# 🧪 Quality Engineering & Test Automation
+
+Strong focus on **quality-first development**, integrating automated testing and validation into the CI/CD pipeline.
+
+Experience designing and implementing:
+
+• **Automated API testing frameworks**
+• **BDD automation frameworks**
+• **Performance testing strategies**
+• **Test case design and test planning**
+• **Risk-based testing strategies**
+• **Automation pipelines for continuous validation**
+
+Tools and frameworks:
+
+![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge)
+![Serenity BDD](https://img.shields.io/badge/SerenityBDD-1B6AC6?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge\&logo=cucumber\&logoColor=white)
+![Screenplay](https://img.shields.io/badge/Screenplay%20Pattern-4B8BBE?style=for-the-badge)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge\&logo=k6\&logoColor=white)
+
+Testing capabilities:
+
+✔ API Testing
+✔ BDD Test Automation
+✔ Performance Testing (k6)
+✔ Automation frameworks with **Serenity + Screenplay**
+✔ Automated testing pipelines
+✔ Test reporting and analysis
+
+---
+
+# 🚀 Agile Development & Delivery
+
+Experience working in **Agile development environments**, collaborating with cross-functional teams to deliver incremental value and high-quality releases.
+
+Methodologies and practices:
+
+• **Scrum / Agile workflows**
+• **Behavior Driven Development (BDD)**
+• **Shift-Left Testing**
+• **Continuous Integration and Continuous Delivery**
+• **Collaborative development and QA practices**
+
+---
+
+# 🤖 AI-Assisted Development
+
+Modern development workflows enhanced with AI tools:
+
+• **GitHub Copilot**
+• **Claude for engineering workflows**
+• **ASDD (Agent Supported Development)**
+• **SDD (Spec Driven Development)**
+• **AI agent orchestration for development and testing**
+
+---
+
+# ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=azure-devops\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+
+Eso hace que tu **GitHub parezca de alguien con 5-7 años de experiencia real.**
